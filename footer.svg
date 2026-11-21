@@ -1,0 +1,35 @@
+<svg width="1000" height="80" viewBox="0 0 1000 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fMidnight" x1="0" y1="0" x2="1000" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070E" />
+      <stop offset="50%" stop-color="#0A1024" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+    <linearGradient id="fAccent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF6B35" />
+      <stop offset="50%" stop-color="#00D4FF" />
+      <stop offset="100%" stop-color="#FF6B35" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="80" rx="12" fill="url(#fMidnight)" />
+  <rect x="0" y="76" width="1000" height="4" rx="2" fill="url(#fAccent)" />
+  <text x="500" y="45" text-anchor="middle" fill="#94A3B8" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="12" letter-spacing="2">DEVELOPER PORTFOLIO • GURUGRAM, INDIA • BATCH 2026-2029</text>
+  <rect x="0.5" y="0.5" width="999" height="79" rx="12" stroke="#1E293B" stroke-width="1" />
+</svg><svg width="1000" height="80" viewBox="0 0 1000 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fMidnight" x1="0" y1="0" x2="1000" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070E"/>
+      <stop offset="50%" stop-color="#0A1024"/>
+      <stop offset="100%" stop-color="#060913"/>
+    </linearGradient>
+    <linearGradient id="fAccent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#FF6B35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="80" rx="12" fill="url(#fMidnight)"/>
+  <rect x="0" y="76" width="1000" height="4" rx="2" fill="url(#fAccent)"/>
+  <text x="500" y="45" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">DEVELOPER PORTFOLIO • GURUGRAM, INDIA • BATCH 2026–2029</text>
+  <rect x="0.5" y="0.5" width="999" height="79" rx="12" stroke="#1E293B" stroke-width="1"/>
+</svg>
