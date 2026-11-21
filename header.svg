@@ -1,1 +1,20 @@
-<svg width="1000" height="210" viewBox="0 0 1000 210" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="bg" x1="0" y1="0" x2="1000" y2="210" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#05070E"/><stop offset="50%" stop-color="#0A1024"/><stop offset="100%" stop-color="#060913"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#00D4FF"/><stop offset="50%" stop-color="#FF6B35"/><stop offset="100%" stop-color="#00D4FF"/></linearGradient></defs><rect width="1000" height="210" rx="14" fill="url(#bg)"/><path d="M0 150 Q 260 95, 520 148 T 1000 130 L 1000 210 L 0 210 Z" fill="#00D4FF" fill-opacity="0.22"/><path d="M0 165 Q 320 190, 640 140 T 1000 155 L 1000 210 L 0 210 Z" fill="#FF6B35" fill-opacity="0.35"/><rect width="1000" height="4" fill="url(#line)"/><text x="500" y="64" text-anchor="middle" fill="#00D4FF" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="3">PORTFOLIO INDEX // K.R. MANGALAM UNIVERSITY</text><text x="500" y="108" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="38" font-weight="bold">Kanak Sachin Chaudhary</text><text x="500" y="138" text-anchor="middle" fill="#CBD5E1" font-family="sans-serif" font-size="14">BCA (AI & Data Science) | Python, Linux, Web Development & Data Analytics</text><rect x="0.5" y="0.5" width="999" height="209" rx="14" fill="none" stroke="#1E293B"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <rect width="1000" height="220" rx="14" fill="#060913"/>
+  <rect x="0" y="0" width="1000" height="5" rx="2" fill="#00D4FF"/>
+  <rect x="0" y="0" width="500" height="5" rx="2" fill="#FF6B35"/>
+
+  <polygon points="0,220 0,145 340,175 680,130 1000,165 1000,220" fill="#00D4FF" fill-opacity="0.12"/>
+  <polygon points="0,220 260,160 620,185 1000,145 1000,220" fill="#FF6B35" fill-opacity="0.18"/>
+
+  <circle cx="115" cy="110" r="42" fill="none" stroke="#00D4FF" stroke-width="2" stroke-opacity="0.35"/>
+  <circle cx="115" cy="110" r="24" fill="none" stroke="#FF6B35" stroke-width="2" stroke-opacity="0.55"/>
+  <circle cx="885" cy="110" r="42" fill="none" stroke="#FF6B35" stroke-width="2" stroke-opacity="0.35"/>
+  <circle cx="885" cy="110" r="24" fill="none" stroke="#00D4FF" stroke-width="2" stroke-opacity="0.55"/>
+
+  <text x="500" y="66" text-anchor="middle" fill="#00D4FF" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="3">DEVELOPER PORTFOLIO // K.R. MANGALAM UNIVERSITY</text>
+  <text x="500" y="114" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="38" font-weight="bold">Kanak Sachin Chaudhary</text>
+  <text x="500" y="148" text-anchor="middle" fill="#FF6B35" font-family="sans-serif" font-size="15" font-weight="bold">BCA (AI & Data Science)</text>
+  <text x="500" y="173" text-anchor="middle" fill="#CBD5E1" font-family="sans-serif" font-size="13">Python • Linux & Bash • Git & GitHub • Web & Data Analytics</text>
+
+  <rect x="1" y="1" width="998" height="218" rx="14" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+</svg>
