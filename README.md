@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kanak0091/Developer-portfolio/main/header.svg" alt="Kanak Sachin Chaudhary" width="100%" />
+  <img src="./banner.png" alt="Kanak Sachin Chaudhary" width="100%" />
+  <h3>Kanak Sachin Chaudhary</h3>
+  <p><code>BCA (AI & Data Science)</code> • <code>K.R. Mangalam University, Gurugram</code> • <code>Batch 2026–2029</code></p>
   <br /><br />
   <a href="https://kanak0091.github.io/Developer-portfolio/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=060913" /></a>
   <a href="./my_resume_v1.pdf"><img src="https://img.shields.io/badge/RESUME_PDF-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=060913" /></a>
