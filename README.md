@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Kanak Sachin Chaudhary" width="100%" />
+  <img src="./banner_v2.png" alt="Kanak Sachin Chaudhary" width="100%" />
   <br /><br />
   <a href="https://kanak0091.github.io/Developer-portfolio/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=060913" /></a>
   <a href="./my_resume_v1.pdf"><img src="https://img.shields.io/badge/RESUME_PDF-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=060913" /></a>
